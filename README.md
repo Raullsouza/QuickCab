@@ -13,11 +13,7 @@ App in development, building it to learn and practice my skills.
 -   [ ] Expo Google Fonts
 
 
-
-![splash](https://user-images.githubusercontent.com/57922037/162803088-a77a72b8-73b8-4efd-af91-6923708d666f.png)
-![sign up](https://user-images.githubusercontent.com/57922037/162803117-07ba7ab6-9bfb-4906-bec9-f78c5ada0d48.png)
-![profile](https://user-images.githubusercontent.com/57922037/162803134-18c5e8b8-d3f0-4df9-aeb6-ead171cda854.png)
-![pickup](https://user-images.githubusercontent.com/57922037/162803192-df457b55-9c26-44cc-93cb-c22459fddfb8.png)
+![Screenshot-20220413102834-448x968](https://user-images.githubusercontent.com/57922037/163191178-a04bcc02-94eb-4e52-92fe-cad5f2a710ba.png)       ![Screenshot-20220413102931-449x974](https://user-images.githubusercontent.com/57922037/163191410-d03e2d61-8ab2-4af6-9458-a0c7e5bb9d50.png)
 
 
 ## Executando o projeto
